@@ -5,7 +5,7 @@
 [//]: # (Image References)
 
 
-[image1]: ./misc/rover_image.jpg
+[image1]: .RoboND-Rover-Project/misc/rover_image.jpg
 [image2]: ./output/original.jpg
 [image3]: ./output/ground.jpg
 [image4]: ./output/rock_threshed.jpg
